@@ -10,7 +10,7 @@ Se tuvo la participación de los profesionales:
 1. Clona el repositorio:
    ```sh
    git clone https://github.com/jaeldiaz/RT-Pract-1
-   cd qa-test-tdd
+   cd RT-Pract-1
    ```
 
 2. Instala las dependencias:

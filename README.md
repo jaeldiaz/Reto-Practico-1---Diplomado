@@ -35,7 +35,7 @@ Esto ejecutará las pruebas definidas en la carpeta `tests/` usando Jest.
 
 ## Evidencias
 
-Para ver la evidencia dirigirse a la ruta `Evidnecia` dentro de la misma se encuentran las subcarpetas:
+Para ver la evidencias dirigirse a la ruta `Evidencia` dentro de la misma se encuentran las subcarpetas:
 -n-5  / Captura del los casos Red/Green.
 -n0   / Captura del los casos Red/Green.
 -n1   / Captura del los casos Red/Green.

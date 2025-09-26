@@ -2,7 +2,7 @@
 
 Este proyecto contiene el reto practico #1.
 
-Se tuvo la participación de los profesionales:
+Se tuvo la participación de:
  - Jael Xaviel Díaz Acevedo
 
 ## Instalación

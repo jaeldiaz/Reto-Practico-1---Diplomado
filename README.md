@@ -1,10 +1,9 @@
-# qa-test-tdd
+# Reto Practico #1
 
 Este proyecto contiene el reto practico #1.
 
 Se tuvo la participación de los profesionales:
  - Jael Xaviel Díaz Acevedo
- - Shiralys Masiel Soto
 
 ## Instalación
 
